@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\f99b00e7b8f274e5c5570a671425dcce3ed3555d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\KBM\KK4\mobile\horai27\android\app\build\intermediates\pre-dexed\debug\classes_8831feaf65a8cc2dca429af7f40c14b4d6c2c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.android\build-cache\f99b00e7b8f274e5c5570a671425dcce3ed3555d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\KBM\KK4\mobile\horai27\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_69cb88a3f9449625c6f19567c109072dd52401fa.jar" />
+    </item>
+
+</items>

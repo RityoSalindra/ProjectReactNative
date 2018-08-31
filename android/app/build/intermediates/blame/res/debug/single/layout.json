@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f99b00e7b8f274e5c5570a671425dcce3ed3555d\\output\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\450e4219b7624938ed64f6580683c07f794b5b32\\output\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f99b00e7b8f274e5c5570a671425dcce3ed3555d\\output\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\450e4219b7624938ed64f6580683c07f794b5b32\\output\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f99b00e7b8f274e5c5570a671425dcce3ed3555d\\output\\res\\layout\\fps_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f99b00e7b8f274e5c5570a671425dcce3ed3555d\\output\\res\\layout\\redbox_item_frame.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f99b00e7b8f274e5c5570a671425dcce3ed3555d\\output\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\450e4219b7624938ed64f6580683c07f794b5b32\\output\\res\\layout\\redbox_item_frame.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\450e4219b7624938ed64f6580683c07f794b5b32\\output\\res\\layout\\fps_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\450e4219b7624938ed64f6580683c07f794b5b32\\output\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\be101dc435551db326a7e4c612197cc5037ded79\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\d30071048511251f41371b852a11b379e63e79eb\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\KBM\\KK4\\mobile\\horai27\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\f3f3741c2a87731fb291ca17e30f1e6094f45e1f\\output\\res\\layout\\abc_screen_simple.xml"
+    }
+]
