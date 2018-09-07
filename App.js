@@ -22,7 +22,9 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-      <Judul/>
+      <Judul title= "BIODATA"/>
+      <Judul title= "LOGIN"/>
+      <Judul title= "FORM"/>
         <Text style={styles.welcome}>Nuruddin Rityo Salindra</Text>
         <Text style={styles.welcome}>No 27</Text>
         <Text style={styles.welcome}>XI RPL 1</Text>
